@@ -1,0 +1,35 @@
+<Python>*********************
+  python3 -m venv my_venv
+  ls
+  source my_venv/bin/activate
+  which python
+  install some packages
+  pip freeze > requirements.txt
+  pip install -r requirements.txt
+  deactivate
+
+<Git>*********************
+  git config, git init, git clone, git status, git add, 
+  git commit -m 'xxx', git push, git pull, git branch,
+  git stash, git checkout, git merge, git reset, get remote
+
+  git remote add origin <url>
+  git push origin master
+  touch .gitignore
+
+
+  https://github.com/Mon8Cats/Spun.git
+  git remote add origin https://github.com/Mon8Cats/Py_Design.git
+
+  git add .
+  
+
+
+<Hot Keys>********************
+  folder> .code --> open vscode
+  comand + s --> save file
+  ctrl + ` --> open command terminal in vscode
+  command + option + n --> run python script
+  comand + , --> settings
+  then type settings.json --> can edit settings
+
